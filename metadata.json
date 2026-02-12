@@ -1,0 +1,5 @@
+{
+  "name": "Mag 7 Valuation Dashboard",
+  "description": "A sophisticated comparison tool for the Magnificent Seven stocks (AAPL, MSFT, GOOGL, AMZN, NVDA, META, NFLX) featuring real-time-like valuation metrics, AI insights, and interactive charts.",
+  "requestFramePermissions": []
+}
